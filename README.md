@@ -1,7 +1,5 @@
-# Yo 👋👋👋
-# I'm Srđan Đorđević
-
-A very bored software architect from Serbia
+<h1 align="center">Yo 👋, I'm Srđan Đorđević</h1>
+<h3 align="center">A very bored software architect from Serbia</h3>
 
 - 🌱 I’m currently learning **Rust, Elixir, Haskell, Idris, EDA**
 
